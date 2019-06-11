@@ -75,8 +75,8 @@ Sorbet         216     #ffaf87       http://www.colorhexa.com/ffaf87
 * { box-sizing: border-box; }
 
 body {
-  background: #626262;
-  color: #e4e4e4;
+  background: #e4e4e4;
+  color: #626262;
   text-decoration: none;
 }
 body button {
@@ -271,18 +271,6 @@ h3 { color: #5fd7af; }
   text-decoration: underline;
 }
 
-
-
-
-/*
-.schedule {
-  width: 90%;
-  padding: 0px 10px;
-  border: thick double #afd7af;
-  border-radius: 30px;
-  margin-top: 10px;
-}
-
 /* Style the input box */
 .main input {
   border: thin solid grey;
@@ -309,19 +297,3 @@ h3 { color: #5fd7af; }
 }
 
 .main .addBtn:hover { background-color: #bbb; }
-
-/**********style the TodoList ***********/
-/*some colors
-#A4DECB
- #48A485
- #bbeedd 
- #dfff87
- #dfffdf 
- #dfdfaf
- #ffffdf
- #d6fff7
- #c6d75f
- */
-
-
-
