@@ -75,6 +75,7 @@ Sorbet         216     #ffaf87       http://www.colorhexa.com/ffaf87
 * { box-sizing: border-box; }
 
 body {
+  font-family: sans-serif;
   background: #e4e4e4;
   color: #626262;
   text-decoration: none;
@@ -187,8 +188,8 @@ body button {
   text-align: center;
 }
 
-/* When screen < 600px wide, hide all links, except first one and show icon link */
-@media screen and (max-width: 600px) {
+/* When screen < 767px wide, hide all links, except first one and show icon link */
+@media screen and (max-width: 767px) {
   .topnav li:not(:first-child) {
     display: none;
   }
@@ -199,7 +200,7 @@ body button {
 
 /* 'responsive' class is added to the topnav with JS when the user clicks on the icon
    This class makes the topnav look good on small screens */
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 767px) {
   /* Navbar menu items will drop horizontally down, not to the side*/
   .topnav.responsive li {
     float: none;
@@ -226,7 +227,7 @@ body button {
     then widen's the screen. Responsive class names are still applied
     until they click outside navbar. This allows them to still browse 
     the navbar for the widened screen without clicking outside.*/
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 767px) {
   .topnav.responsive .dropdown:hover > .dropdown-content {
     display: block;
   }
@@ -239,7 +240,7 @@ body button {
 /******** Main body of the website ************/
 
 .main {
-  margin-top: 40px;             /* Add top marging to avoid conflict with content overlay */
+  margin-top: 30px;             /* Add top marging to avoid conflict with content overlay */
 }
 
 .docs-header {

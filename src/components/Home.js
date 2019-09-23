@@ -1,9 +1,6 @@
 import React from 'react';
+import Resume from './resume/Resume';
 
-const Home = () => (
-  <div className="home">
-    <h1>Hello World</h1>
-  </div>
-);
+const Home = () => <Resume />;
 
 export default Home;

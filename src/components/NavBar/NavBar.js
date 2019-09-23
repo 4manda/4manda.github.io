@@ -2,7 +2,11 @@ import React from 'react';
 import '../../styles/navbar.css';
 import TopNav from './TopNav';
 
-const navList = [["home"], ["about"]];
+const navList = [
+  ["home"],
+  // ["about"],
+  // ["kudos"], // credit, awknowledgment, gratitude, kudos, recognition, gramercy
+];
 
 class NavBar extends React.Component {
   toggleDrop(id) {

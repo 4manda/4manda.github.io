@@ -7,7 +7,7 @@ class TopNav extends React.Component {
   render() {
     const listItems = this.props.navList.map((item, i) => {
       const name = item[0];
-      if ( item.length === 1 ) {
+      if (item.length === 1) {
         return <li key={i}><Link to={"/" + name} onClick={() => this.props.toggleNavBar()}>{name}</Link></li>
       } else {
         return (
@@ -23,7 +23,11 @@ class TopNav extends React.Component {
     return (
       <ul>
         { listItems }
-        <li className="icon"><a onClick={() => this.props.toggleNavBar()}>&#9776;</a></li>
+        { !!listItems[1] && (
+          <li className="icon">
+            <a onClick={() => this.props.toggleNavBar()}>&#9776;</a>
+          </li>
+        ) }
       </ul>
     );
   }

@@ -1,10 +1,8 @@
 import React from 'react';
+import Resume from './resume/Resume';
 
 const About = (props) => (
-  <div className="about">
-    <h2>Amanda Splink</h2>
-    <p>Hoping to share more about me soon.</p>
-  </div>
+  <div className="about">About</div>
 );
 
 export default About;
