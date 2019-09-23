@@ -3,7 +3,7 @@ import '../../styles/navbar.css';
 import TopNav from './TopNav';
 
 const navList = [
-  ["home"],
+  // ["home"],
   // ["about"],
   // ["kudos"], // credit, awknowledgment, gratitude, kudos, recognition, gramercy
 ];
