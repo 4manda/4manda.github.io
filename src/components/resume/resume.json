@@ -5,7 +5,7 @@
     "picture": "profilePic.jpeg",
     "email": "amanda.j.flink@gmail.com",
     "website": "https://4manda.github.io",
-    "summary": "Software engineer with 3+ years of experience in programming and a well-rounded background in mathematics, teaching, consulting, and virtualization. I am always looking for ways to inspire and be inspired by creative ideas and implementations for enabling healthy and fun lifestyles.",
+    "summary": "Software engineer with more than three years of experience in programming and a well-rounded background in mathematics, teaching, consulting, and virtualization. Looking for an opportunity to collaborate on a team to deliver a high quality experience and excellent support to customers. As a hard working and amiable individual, I am quick to pick up on team standards, learn new technologies, and provide value as a front-end developer. I am always looking for ways to inspire and be inspired by creative ideas and implementations for enabling healthy and fun lifestyles.",
     "location": {
       "city": "San Francisco",
       "region": "California"
@@ -13,7 +13,7 @@
     "profiles": [
       {
         "network": "GitHub",
-        "username": "4mandaf",
+        "username": "4manda",
         "url": "https://github.com/4manda"
       },
 		  {
@@ -34,7 +34,7 @@
         "Created and maintained all aspects of the React/Redux front-end system",
         "Maintained a level of 85% minimum code coverage",
         "Created plugin functionality via dependency injection and maintained the feature segmented module system",
-        "Utilized Phabricator to create, sharpen, and maintain a highly organized Agile develompent and code review process"
+        "Utilized Phabricator to create, sharpen, and maintain a highly organized Agile development and code review process"
       ]
     },
     {
@@ -58,7 +58,7 @@
       "highlights": [
         "Collected and analyzed information on virtualization environment users, access, resources, controllers, networking, storage, and operations, and provided recommendations and implemented solutions according to Citrix best practices.",
         "Awarded 'Wile E. Coyote - Courage Under Fire' award within the consulting team for delivering on projects and maintaining professionalism under tough conditions.",
-        "Awarded 'Top Gun', a special designation to a small selection of consulants for their hard work and success in the field.",
+        "Awarded 'Top Gun', a special designation to a small selection of consultants for their hard work and success in the field.",
         "Demoed/tested new product features for internal knowledge base.",
         "Organized quarterly team events and yearly volunteer activities.",
         "Created yearly, consulting-wide job quality survey.",
@@ -85,7 +85,7 @@
       "endDate": "2014-04-30",
       "summary": "Completed a six months rigorous training program on virtualization and networking products as well as soft skills training.",
       "highlights": [
-        "Aquired Citrix Certified Enterprise Engineer (CCEE) for Virtualization and Microsoft Certified IT Professional (MCITP) certificates",
+        "Acquired Citrix Certified Enterprise Engineer (CCEE) for Virtualization and Microsoft Certified IT Professional (MCITP) certificates",
         "Shadowed and assisted on numerous consulting projects.",
         "Led customer-facing demonstrations on the Citrix virtualization product suite.",
         "Provided the Inside Sales team with technical support on customer questions and calls.",
@@ -121,10 +121,9 @@
       "level": "Proficient",
       "keywords": [
         "HTML / JSX",
-        "CSS / SCSS / BEM",
-        "Javascript",
-        "React",
-        "Redux",
+        "CSS / SASS / BEM / Semantic-UI",
+        "JavaScript",
+        "React / Redux",
         "Lodash",
         "Webpack",
         "Mocha",
@@ -138,7 +137,7 @@
         "Git",
         "Vim",
         "Bash",
-        "Linux (debian)"
+        "Linux (Debian)"
       ]
     },
     {
@@ -148,7 +147,7 @@
         "Python",
         "PostgreSQL",
         "REST",
-        "Websockets"
+        "WebSockets"
       ]
     },
     {
@@ -156,10 +155,7 @@
       "level": "Proficient",
       "keywords": [
         "Agile",
-        "Phabricator",
-        "Communication",
-        "Presentation",
-        "Documentation"
+        "Phabricator"
       ]
     },
     {
@@ -168,7 +164,8 @@
       "keywords": [
         "Citrix XenApp and XenDesktop",
         "Microsoft Server",
-        "Citrix XenServer"
+        "Citrix XenServer",
+        "Docker"
       ]
     }
   ],

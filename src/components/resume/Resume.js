@@ -23,15 +23,15 @@ const structure = [{
   component: About,
   icon: 'id card outline',
 }, {
+  name: 'skills',
+  title: 'Technologies',
+  component: Skills,
+  icon: 'code',
+}, {
   name: 'work',
   title: 'Experience',
   component: Work,
   icon: 'building outline',
-}, {
-  name: 'skills',
-  title: 'Skills',
-  component: Skills,
-  icon: 'code',
 }, {
   name: 'education',
   title: 'Education',
