@@ -26,15 +26,15 @@
   "work": [
     {
       "company": "ActDaily",
-   	  "position": "Vice President and Software Engineer",
+   	  "position": "Software Engineer",
       "website": "https://actdaily.com",
       "startDate": "2017-07-01",
-      "summary": "Built a community focused application to facilitate task management for groups of people",
+      "summary": "Built a community focused application to facilitate task management for groups of people.",
       "highlights": [
-        "Created and maintained all aspects of the React/Redux front-end system",
-        "Maintained a level of 85% minimum code coverage",
-        "Created plugin functionality via dependency injection and maintained the feature segmented module system",
-        "Utilized Phabricator to create, sharpen, and maintain a highly organized Agile development and code review process"
+        "Created and maintained all aspects of the React/Redux front-end system.",
+        "Maintained a high level of automated code coverage using Mocha and NightwatchJS.",
+        "Created plugin functionality via dependency injection and maintained the feature segmented module system.",
+        "Utilized Phabricator to create, sharpen, and maintain a highly organized Agile development and code review process."
       ]
     },
     {
