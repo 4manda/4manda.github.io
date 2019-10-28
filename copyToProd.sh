@@ -4,7 +4,9 @@ set -ex
 
 echo "[INFO] Copying build files to dist/prod";
 
-rm -r ./dist/prod/* && cp -r ./build/* ./dist/prod/;
+rm -r ./dist/prod/* \
+  && cp -r ./build/* ./dist/prod/ \
+  && cp ./README.md ./dist/prod/;
 
 set +x;
 
