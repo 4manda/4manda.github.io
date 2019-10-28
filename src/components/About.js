@@ -1,7 +1,6 @@
 import React from 'react';
-import Resume from './resume/Resume';
 
-const About = (props) => (
+const About = () => (
   <div className="about">About</div>
 );
 

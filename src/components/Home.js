@@ -1,6 +1,5 @@
 import React from 'react';
-import Resume from './resume/Resume';
 
-const Home = () => <Resume />;
+const Home = () => <div>Very temporary placeholder...</div>;
 
 export default Home;

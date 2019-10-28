@@ -4,7 +4,7 @@ import 'semantic-ui-css/semantic.min.css';
 import './styles/index.css';
 
 import NavBar from './components/NavBar/NavBar';
-import Resume from './components/resume/Resume';
+import Home from './components/Home';
 
 const App = props => {
   return (
@@ -12,7 +12,7 @@ const App = props => {
       <div>
         <NavBar />
         <div className="main">
-          <Route exact path="/" component={Resume} />
+          <Route exact path="/" component={Home} />
         </div>
         {/* TODO: Add Footer */}
       </div>
